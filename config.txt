@@ -1,3 +1,3 @@
 [GERAL]
 email = bizinoto@hotmail.com
-senha = password
+senha = password3
